@@ -1,0 +1,5 @@
+.venv-file-sorting
+nohup.out
+.idea/
+__pycache__/
+
